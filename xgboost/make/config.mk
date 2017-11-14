@@ -17,8 +17,8 @@
 #----------------------------------------------------
 
 # choice of compiler, by default use system preference.
-export CC = gcc
-export CXX = g++
+export CC = /usr/local/bin/gcc
+export CXX = /usr/local/bin/g++
 # export MPICXX = mpicxx
 
 # the additional link flags you want to add
